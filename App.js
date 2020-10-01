@@ -3,7 +3,7 @@ import React from 'react';
 
 import Trending from './src/components/trending';
 
-const App = () => {
+const App=() => {
   return (
 
 
