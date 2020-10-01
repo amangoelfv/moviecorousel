@@ -1,4 +1,4 @@
-
+// app.js
 import React from 'react';
 
 import Trending from './src/components/trending';
